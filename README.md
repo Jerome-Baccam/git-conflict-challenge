@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# git-conflict-challenge - Ligne modifiée en local

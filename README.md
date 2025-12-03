@@ -1,1 +1,1 @@
-# git-conflict-challenge - Ligne modifiée en local
+# git-conflict-challenge - Ligne modifié et résolue par fusion
